@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  freemarker:
+    enabled: true
+    cache: false
+    template-loader-path: classpath:/templates/
+    suffix: .html
+
+  security:
+    user:
+      name: user
+      password: admin
+      roles: user, admin
