@@ -19,7 +19,7 @@
     <version>1.0.0</version>
 
     <name>spring-security-demos</name>
-    <description>Demo project for Spring Security</description>
+    <description>Demos project for Spring Security</description>
 
     <properties>
         <java.version>1.8</java.version>
