@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>basic-security</module>
+        <module>security-jwt-restful</module>
     </modules>
 
     <parent>
